@@ -23,3 +23,13 @@ Driver Program
 	- uses Process class
 
 -------------------------------------------------------------------
+March 14, 2025 - 7:56 PM
+
+a. The previous/initial entry essentially broke down the instructions. 
+I wanted to make bullet points for the functions and requirements for each program.
+I think it will help me make sure I can meet the requirements of the project.
+
+b. After breaking down the three programs, I think the encryption program will be the hardest, and I will start with that.
+I will start with learning more about and understanding the Vigenère cipher. I aim to include what I learned in the next update.
+
+-------------------------------------------------------------------
