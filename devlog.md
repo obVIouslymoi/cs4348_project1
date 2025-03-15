@@ -96,3 +96,11 @@ After writing the code, I went back and refined it to remove extras and clean it
 I will run this tomorrow to see what works and if I can optimize this more.
 
 -------------------------------------------------------------------
+
+March 15, 2025 - 1:16 AM
+
+Small correction. I have mislabeled a few commits. 'Attempt 1' should be 'Commit 4 - Attempt 1 at Encryption'. 'Commit 3' should be 'Commit 5'. This will be 'Commit 6 - Commit Labelling Correction.'
+
+-------------------------------------------------------------------
+
+
