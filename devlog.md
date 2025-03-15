@@ -10,10 +10,10 @@ Logger
 	- specific write format for log file: YYYY-MM-DD HH:MM [ACTION] MESSAGE
 
 Encryption Program
-	- uses Vigenere cipher --> need to understand better
+	- uses Vigenère cipher --> need to understand better
 	- takes in 6 possible commands as input
 	- graceful handling for ENCRYPT and DECRYPT and ERROR
-	- case insensitive --> convert all inputs to all-caps before use
+	- case-insensitive --> convert all inputs to all-caps before use
 	- no numbers allowed --> automatic error thrown
 
 Driver Program
@@ -21,3 +21,15 @@ Driver Program
 	- 2 processes for logger and encryption program
 	- 5 command input options
 	- uses Process class
+
+-------------------------------------------------------------------
+March 14, 2025 - 7:56 PM
+
+a. The previous/initial entry essentially broke down the instructions. 
+I wanted to make bullet points for the functions and requirements for each program.
+I think it will help me make sure I can meet the requirements of the project.
+
+b. After breaking down the three programs, I think the encryption program will be the hardest, and I will start with that.
+I will start with learning more about and understanding the Vigenère cipher. I aim to include what I learned in the next update.
+
+-------------------------------------------------------------------
