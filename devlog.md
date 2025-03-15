@@ -73,3 +73,26 @@ These are my notes and understanding of the Vigenère cipher:
 After this commit, I will be attempting to implement this.
 
 -------------------------------------------------------------------
+March 15, 2025 - 1:16 AM
+
+I have attempted an encryption program. 
+Because of how I attemped and approached the project, I am unable to run the program. 
+This is because there are issues my json and base project files that are preventing me from running this properly. 
+I will fix this tomorrow/later today.
+
+In terms of the code, I did as much as I could without a running the program. 
+I used a while loop instead to keep taking in lines and used string functions to make sure the invalid are weeded out. 
+Also, I added an error message and final message to know when it is completed. 
+There is a larger program that breaks down each line as command and argument. 
+The switch statement worked great here and allowed for an error message as well.
+
+I initially created functions for each task but found it redundant for setting the passkey and quitting.
+For encrypt/decrypt, I created a geneneral function that produced an output calculated based on the boolean.
+True mean encrypt. False meant decrypt.
+This allowed for less code and easier reading.
+
+After writing the code, I went back and refined it to remove extras and clean it up (as seen in the lesser amount of functions being needed for each command option). I ended the session by going back and adding comments to explain the code.
+
+I will run this tomorrow to see what works and if I can optimize this more.
+
+-------------------------------------------------------------------
